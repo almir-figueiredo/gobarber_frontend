@@ -1,0 +1,6 @@
+yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint customize-cra react-app-rewired -D
+
+yarn add date-fns@next react-perfect-scrollbar redux-persist yup @rocketseat/unform prop-types reactotron-react-js reactotron-redux reactotron-redux-saga styled-components redux react-toastify react-router-dom react-redux react-icons polished immer history axios
+
+Só depois de configurar o config-overrides
+yarn add babel-plugin-root-import -D
